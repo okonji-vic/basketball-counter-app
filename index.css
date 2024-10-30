@@ -50,7 +50,7 @@ body {
 
 @font-face {
     font-family: 'CursedTimerUlil';
-    src: url('cursed-timer-ulil-font/CursedTimerUlil-Aznm.ttf') format('truetype');
+    src: url('CursedTimerUlil-Aznm.ttf') format('truetype');
 }
 
 .team2 h3 {
